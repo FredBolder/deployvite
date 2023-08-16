@@ -34,3 +34,8 @@ function App() {
 }
 
 export default App
+export default function App() {
+  return <div><h1>Fred</h1></div>;
+
+  
+}
