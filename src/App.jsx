@@ -18,7 +18,7 @@ export default function App() {
       </div>
       <h1>Vite + React</h1>
       <div className="card">
-        <h1>Fred3</h1>
+        <h1>Fred4</h1>
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
